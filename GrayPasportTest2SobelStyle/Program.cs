@@ -13,7 +13,7 @@ namespace GrayPasportTest2SobelStyle
         {
 
            
-
+            //ntcnbv
 
             using (IplImage image = new IplImage("data/0174.png", LoadMode.GrayScale))
             {
